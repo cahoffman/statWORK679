@@ -72,3 +72,4 @@ do
     echo "$rootName, $hMax $elapsedTime, $Nruns, $Nfail, $fabs $frel $xabs $xrel, $seed, $under3460, $under3450, $under3440" >> $saveFileloc
     
 done 
+#This is all updated from the previous version which has been tagged on github
